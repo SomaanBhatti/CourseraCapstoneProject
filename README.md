@@ -21,3 +21,4 @@ The project can be broken down into the following sections:
 3. Next, machine learning will be used to determine if the first stage of Falcon 9 will land successfully. The data will be split between training and test data to find the best hyperparameter for SVM, Classification Trees and Logistic Regression. The method that performs the best using the test data will then be found.
 4. Finally, all these activities will come together in one place and the data-driven insights will be delivered to determine if the first stage of Falcon 9 will land successfully.
 
+I hope you enjoy exploring one of my first projects on github, whoever you are and I wish you the best of luck! :-)
